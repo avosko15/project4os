@@ -1,0 +1,11 @@
+total 176
+drwxr-xr-x  10 anna  staff    320 Feb 19 11:39 .
+drwx------@ 14 anna  staff    448 Feb 19 10:50 ..
+drwxr-xr-x  13 anna  staff    416 Feb 19 11:02 .git
+-rw-r--r--   1 anna  staff    179 Feb 19 10:50 Makefile
+-rw-r--r--   1 anna  staff     13 Feb 19 09:49 README.md
+-rw-r--r--   1 anna  staff      0 Feb 19 11:39 foo.txt
+-rwxr-xr-x   1 anna  staff  33264 Feb 19 11:00 lswc
+-rw-r--r--   1 anna  staff    663 Feb 19 11:00 lswc.c
+-rwxr-xr-x   1 anna  staff  33560 Feb 19 11:35 redirout
+-rw-r--r--   1 anna  staff    670 Feb 19 11:35 redirout.c
